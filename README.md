@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fouadZiaa
-- 👀 I’m interested in data analytics and visualization
-- 🌱 I’m currently learning data anlytics and visualization with UCD
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ML and AI Development
 - 📫 How to reach me fouadziaa@gmail.com or 916-262-5301
 
 <!---
